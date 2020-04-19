@@ -70,7 +70,7 @@ augroup filetypedetect
 augroup END
 
 
-let mapleader = "\\"
+let mapleader = ","
 
 map <C-n> :cn<CR>
 map <C-m> :cp<CR>
