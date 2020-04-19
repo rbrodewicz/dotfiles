@@ -42,7 +42,8 @@ set listchars=tab:>-,trail:·,extends:>
 let delimitMate_expand_cr = 1
 
 set bg=dark
-colorscheme moody
+colorscheme rbx
+"colorscheme moody
 syntax on
 
 
